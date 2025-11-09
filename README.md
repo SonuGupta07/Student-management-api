@@ -14,7 +14,13 @@ A simple backend project built using **Python (Flask)** for managing student rec
 - Flask-SQLAlchemy  
 - SQLite  
 
-## ⚙️ Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SonuGupta07/student-management-api.git
+### ⚙️ Setup Instructions (compact)
+
+1. **Clone the repository:** `git clone https://github.com/Sonugupta07/student-management-api.git`  
+2. **Go to project folder:** `cd student-management-api`  
+3. **Create & activate venv (macOS/Linux):** `python3 -m venv venv && source venv/bin/activate`  
+4. **Install dependencies:** `pip install -r requirements.txt`  
+5. **Run the app:** `python app.py`  
+6. **Open:** `http://127.0.0.1:5000/`
+
+
