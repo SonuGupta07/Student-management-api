@@ -17,4 +17,4 @@ A simple backend project built using **Python (Flask)** for managing student rec
 ## ⚙️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/student-management-api.git
+   git clone https://github.com/SonuGupta07/student-management-api.git
